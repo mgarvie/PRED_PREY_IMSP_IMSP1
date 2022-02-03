@@ -16,7 +16,7 @@ The computer code and data files made available are distributed under the GNU LG
 
 <b>References:</b>
 
-    Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961.
+Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961.
 
 <b>Files in the repository:</b>
 
