@@ -20,6 +20,6 @@ Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in ti
 
 <b>Files in the repository:</b>
 
-fd1dKin2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.
-fe2d_n_fast_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D.
+fd1dKin2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.</br>
+fe2d_n_fast_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D. </br>
 fe2d_n_fast_IMSP1_test.m    MATLAB code for running IMSP first order scheme solving a two dimensional example.
