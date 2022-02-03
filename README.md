@@ -16,11 +16,10 @@ The computer code and data files made available are distributed under the GNU LG
 
 <b>References:</b>
 
-Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961.
+Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961. https://doi.org/10.1016/j.camwa.2017.04.030
 
 <b>Files in the repository:</b>
 
-    fd1dKin2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.
-    fe2d_n_fast_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D.
-    fe2d_n_fast_IMSP1_test.m    MATLAB code for running IMSP first order scheme solving a two dimensional example.
-
+fd1dKin2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.
+fe2d_n_fast_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D.
+fe2d_n_fast_IMSP1_test.m    MATLAB code for running IMSP first order scheme solving a two dimensional example.
