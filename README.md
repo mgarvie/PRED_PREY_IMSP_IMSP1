@@ -8,20 +8,19 @@ PRED_PREY_IMSP_IMSP1 is a collection of MATLAB routines using the finite differe
 
 <b>Cite as:</b>
 
-in progress ...
+Marcus R. Garvie. (2022). mgarvie/PRED_PREY_IMSP_IMSP1: Initial release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5963699
 
-## Reference
+<b>Licensing:</b>
 
-    Garvie M.R. , "Finite difference schemes for reaction-diffusion equations modeling predator-prey interactions in MATLAB," Bulletin of Mathematical Biology (2007) 69:931-956
-    Garvie M.R., Burkardt J., Morgan J. "Simple Finite Element Methods for Approximating Predator-Prey Dynamics in Two Dimensions using MATLAB," Bulletin of Mathematical Biology (2015) 77:548-578
-    Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," submitted 2016
+The computer code and data files made available are distributed under the GNU LGPL license.
 
-## Download codes for IMSP1
+<b>References:</b>
 
-Files you may copy include:
+    Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961.
+
+<b>Files in the repository:</b>
 
     fd1dKin2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.
     fe2d_n_fast_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D.
-    fe2d_n_fast_IMSP1_test.m    MATLAB code for running IMSP first order scheme solving the two dimensional example in Section 4.2. of Reference [3].
+    fe2d_n_fast_IMSP1_test.m    MATLAB code for running IMSP first order scheme solving a two dimensional example.
 
-PRED_PREY_IMSP is distributed under the GNU GPL; see the License and Copyright notice for more information. 
