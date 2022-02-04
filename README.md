@@ -17,7 +17,7 @@ Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in ti
 <b>Files in the repository:</b>
 
 FD1DKIN2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.</br>
-FE2D_N_FAST_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D. </br>
+FE2D_N_FAST_IMSP1.m    MATLAB code for IMSP 1st order scheme applied to Kinetics (i) in 2D. </br>
 FE2D_N_FAST_IMSP1_TEST.m    tests the FE2D_N_FAST_IMSP1 code.
 
 PRED_PREY_IMSP_IMSP1 is distributed under the GNU GPL; see the copyright.txt file for more information.
