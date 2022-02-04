@@ -6,10 +6,6 @@ PRED_PREY_IMSP_IMSP1 is a collection of MATLAB routines using the finite differe
 
 [![DOI](https://zenodo.org/badge/139030474.svg)](https://zenodo.org/badge/latestdoi/139030474)
 
-<b>Cite as:</b>
-
-Marcus R. Garvie. (2022). mgarvie/PRED_PREY_IMSP_IMSP1: Initial release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5963699
-
 <b>References:</b>
 
 Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961. https://doi.org/10.1016/j.camwa.2017.04.030
