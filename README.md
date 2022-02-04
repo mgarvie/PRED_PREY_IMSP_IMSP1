@@ -10,10 +10,6 @@ PRED_PREY_IMSP_IMSP1 is a collection of MATLAB routines using the finite differe
 
 Marcus R. Garvie. (2022). mgarvie/PRED_PREY_IMSP_IMSP1: Initial release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5963699
 
-<b>Licensing:</b>
-
-The computer code and data files made available are distributed under the GNU LGPL license.
-
 <b>References:</b>
 
 Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961. https://doi.org/10.1016/j.camwa.2017.04.030
@@ -23,3 +19,5 @@ Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in ti
 FD1DKIN2_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (ii) in 1D.</br>
 FE2D_N_FAST_IMSP1.m    MATLAB code for IMSP first order scheme applied to Kinetics (i) in 2D. </br>
 FE2D_N_FAST_IMSP1_TEST.m    tests the FE2D_N_FAST_IMSP1 code.
+
+PRED_PREY_IMSP_IMSP1 is distributed under the GNU GPL; see the copyright.txt file for more information.
