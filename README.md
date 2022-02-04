@@ -2,10 +2,6 @@
 
 PRED_PREY_IMSP_IMSP1 is a collection of MATLAB routines using the finite difference/finite element method for simulating the dynamics of predator-prey interactions in 1D and 2D. The routines are based on first order Implicit-Symplectic schemes. The MATLAB code is mostly self explanatory, with the names of variables and parameters corresponding to the symbols used in the finite element / difference methods described in the paper referenced below.
 
-<b>DOI:</b>
-
-[![DOI](https://zenodo.org/badge/139030474.svg)](https://zenodo.org/badge/latestdoi/139030474)
-
 <b>References:</b>
 
 Diele, F., Garvie M.R., Trenchea, C. " Numerical analysis of a first-order in time implicit-symplectic scheme for predator-prey systems," Comput. Math. Appl. 74 (2017), no. 5, 948–961. https://doi.org/10.1016/j.camwa.2017.04.030
